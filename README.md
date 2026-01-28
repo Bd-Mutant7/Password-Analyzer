@@ -1,4 +1,4 @@
-## 🔐 Password Strength Analyzer with Security Simulation
+# 🔐 Password Strength Analyzer with Security Simulation
 
 
 A comprehensive client-side password analysis tool that demonstrates how attackers identify and exploit weak passwords - for defensive security education only.
@@ -295,4 +295,4 @@ Have I Been Pwned?
 KeePass Password Manager
 
 # 🌟 Star History
-https://api.star-history.com/svg?repos=your-username/Password-Analyzer&type=Date
+https://api.star-history.com/svg?repos=bd-mutant7/Password-Analyzer&type=Date
