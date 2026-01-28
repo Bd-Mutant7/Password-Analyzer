@@ -1,8 +1,5 @@
-🔐 Password Strength Analyzer with Security Simulation
-https://img.shields.io/badge/Password-Strength_Analyzer-blue
-https://img.shields.io/badge/Hosted-GitHub_Pages-green
-https://img.shields.io/badge/Client--Side_Only-Secure-red
-https://img.shields.io/badge/Educational-Purpose_Only-yellow
+##🔐 Password Strength Analyzer with Security Simulation
+
 
 A comprehensive client-side password analysis tool that demonstrates how attackers identify and exploit weak passwords - for defensive security education only.
 
@@ -19,8 +16,6 @@ Live Demo: View on GitHub Pages
 
 📁 Project Structure
 
-🚦 Quick Start
-
 🎯 How to Use
 
 🔒 Privacy & Security
@@ -29,18 +24,14 @@ Live Demo: View on GitHub Pages
 
 🐛 Troubleshooting
 
-📸 Screenshots
-
-🤝 Contributing
-
 📄 License
 
-⚠️ Important Disclaimer
+##⚠️ Important Disclaimer
 This tool operates entirely in your browser. No passwords are transmitted, stored, or shared. This application exists solely for defensive security education to help users understand password vulnerabilities and create stronger passwords.
 
 ⚠️ WARNING: Use responsibly and only for educational purposes on passwords you own.
 
-✨ Features
+##✨ Features
 🔍 Password Strength Analysis
 Real-time strength scoring (0-100 scale)
 
@@ -52,7 +43,7 @@ Pattern detection (keyboard patterns, repetitions, leetspeak)
 
 Defensive recommendations with specific improvements
 
-🛡️ Attack Simulation (Educational Only)
+##🛡️ Attack Simulation (Educational Only)
 Dictionary Attack: Tests against 10,000+ common passwords
 
 Brute Force: Systematic character-by-character guessing
@@ -63,7 +54,7 @@ Visual progress indicators with estimated cracking times
 
 Real-time attack simulation with visual feedback
 
-📚 Security Education
+##📚 Security Education
 How attackers crack passwords - detailed methodologies
 
 Password creation best practices - do's and don'ts
@@ -72,7 +63,7 @@ Additional security measures - 2FA, password managers, breach monitoring
 
 Interactive examples - test common password patterns
 
-🎨 User Interface
+##🎨 User Interface
 Tab-based navigation (Analyzer, Simulation, Education)
 
 Real-time visual feedback with color-coded strength meters
@@ -83,11 +74,11 @@ Responsive design works on desktop and mobile
 
 Dark theme with gradient backgrounds
 
-🚀 Live Demo
+##🚀 Live Demo
 Access the tool directly:
-👉 https://Bd_Mutant7.github.io/Password-Analyzer/
+👉 https://bd-mutant7.github.io/Password-Analyzer/
 
-🛠️ Technical Details
+##🛠️ Technical Details
 Client-Side Architecture
 No server-side processing - everything runs in your browser
 
@@ -106,7 +97,7 @@ Vanilla JavaScript - No frameworks, pure ES6+
 
 GitHub Pages - Static hosting with automatic SSL
 
-Security Features
+##Security Features
 ✅ Zero data collection - completely anonymous
 
 ✅ No tracking - no analytics, no cookies
@@ -115,7 +106,7 @@ Security Features
 
 ✅ Open source - fully transparent codebase
 
-📁 Project Structure
+##📁 Project Structure
 text
 Password-Analyzer/
 ├── index.html          # Main application (required)
@@ -129,7 +120,7 @@ Password-Analyzer/
 Run Locally
 bash
 # Clone the repository
-git clone https://github.com/Bd_Mutant7/Password-Analyzer.git
+git clone https://bd-mutant7.github.io/Password-Analyzer.git
 
 # Open directly in browser (no server needed)
 open index.html  # Mac
@@ -176,7 +167,7 @@ Tr0ub4dour&3	Moderate	Complex but predictable
 CorrectHorseBatteryStaple	Strong	Long passphrase
 X&$9pL2@qF!n	Very Strong	Random characters
 
-🔒 Privacy & Security
+##🔒 Privacy & Security
 What We DON'T Do
 ❌ Never transmit passwords over network
 
@@ -190,7 +181,7 @@ What We DON'T Do
 
 ❌ Never set cookies for passwords
 
-What We DO
+##What We DO
 ✅ Run 100% in browser sandbox
 
 ✅ Use only client-side JavaScript
@@ -201,7 +192,7 @@ What We DO
 
 ✅ Offer defensive recommendations
 
-🎓 Educational Value
+##🎓 Educational Value
 This tool teaches:
 
 For Individuals
