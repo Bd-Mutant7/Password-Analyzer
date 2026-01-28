@@ -120,7 +120,7 @@ Password-Analyzer/
 # Run Locally
 bash
 # Clone the repository
-git clone https://bd-mutant7.github.io/Password-Analyzer.git
+git clone https://Bd-Mutant7.github.io/Password-Analyzer.git
 
 # Open directly in browser (no server needed)
 open index.html  # Mac
