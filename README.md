@@ -1,11 +1,11 @@
-##🔐 Password Strength Analyzer with Security Simulation
+## 🔐 Password Strength Analyzer with Security Simulation
 
 
 A comprehensive client-side password analysis tool that demonstrates how attackers identify and exploit weak passwords - for defensive security education only.
 
 Live Demo: View on GitHub Pages
 
-📋 Table of Contents
+# 📋 Table of Contents
 ⚠️ Important Disclaimer
 
 ✨ Features
@@ -26,12 +26,12 @@ Live Demo: View on GitHub Pages
 
 📄 License
 
-##⚠️ Important Disclaimer
+# ⚠️ Important Disclaimer
 This tool operates entirely in your browser. No passwords are transmitted, stored, or shared. This application exists solely for defensive security education to help users understand password vulnerabilities and create stronger passwords.
 
 ⚠️ WARNING: Use responsibly and only for educational purposes on passwords you own.
 
-##✨ Features
+# ✨ Features
 🔍 Password Strength Analysis
 Real-time strength scoring (0-100 scale)
 
@@ -43,7 +43,7 @@ Pattern detection (keyboard patterns, repetitions, leetspeak)
 
 Defensive recommendations with specific improvements
 
-##🛡️ Attack Simulation (Educational Only)
+# 🛡️ Attack Simulation (Educational Only)
 Dictionary Attack: Tests against 10,000+ common passwords
 
 Brute Force: Systematic character-by-character guessing
@@ -54,7 +54,7 @@ Visual progress indicators with estimated cracking times
 
 Real-time attack simulation with visual feedback
 
-##📚 Security Education
+# 📚 Security Education
 How attackers crack passwords - detailed methodologies
 
 Password creation best practices - do's and don'ts
@@ -63,7 +63,7 @@ Additional security measures - 2FA, password managers, breach monitoring
 
 Interactive examples - test common password patterns
 
-##🎨 User Interface
+# 🎨 User Interface
 Tab-based navigation (Analyzer, Simulation, Education)
 
 Real-time visual feedback with color-coded strength meters
@@ -74,11 +74,11 @@ Responsive design works on desktop and mobile
 
 Dark theme with gradient backgrounds
 
-##🚀 Live Demo
+# 🚀 Live Demo
 Access the tool directly:
 👉 https://bd-mutant7.github.io/Password-Analyzer/
 
-##🛠️ Technical Details
+# 🛠️ Technical Details
 Client-Side Architecture
 No server-side processing - everything runs in your browser
 
@@ -88,7 +88,7 @@ No storage - no passwords are saved or logged
 
 No external dependencies - completely self-contained HTML/CSS/JS
 
-Technologies Used
+# Technologies Used
 HTML5 - Semantic structure and accessibility
 
 CSS3 - Modern gradients, flexbox, grid, animations
@@ -97,7 +97,7 @@ Vanilla JavaScript - No frameworks, pure ES6+
 
 GitHub Pages - Static hosting with automatic SSL
 
-##Security Features
+## Security Features
 ✅ Zero data collection - completely anonymous
 
 ✅ No tracking - no analytics, no cookies
@@ -106,7 +106,7 @@ GitHub Pages - Static hosting with automatic SSL
 
 ✅ Open source - fully transparent codebase
 
-##📁 Project Structure
+# 📁 Project Structure
 text
 Password-Analyzer/
 ├── index.html          # Main application (required)
@@ -117,7 +117,7 @@ Password-Analyzer/
     ├── screenshot1.png
     └── screenshot2.png
 
-Run Locally
+# Run Locally
 bash
 # Clone the repository
 git clone https://bd-mutant7.github.io/Password-Analyzer.git
@@ -134,7 +134,7 @@ Double-click to open in any browser
 
 That's it! No installation needed
 
-🎯 How to Use
+# 🎯 How to Use
 1. Password Analysis Tab
 text
 1. Enter any password in the input field
@@ -167,7 +167,7 @@ Tr0ub4dour&3	Moderate	Complex but predictable
 CorrectHorseBatteryStaple	Strong	Long passphrase
 X&$9pL2@qF!n	Very Strong	Random characters
 
-##🔒 Privacy & Security
+# 🔒 Privacy & Security
 What We DON'T Do
 ❌ Never transmit passwords over network
 
@@ -181,7 +181,7 @@ What We DON'T Do
 
 ❌ Never set cookies for passwords
 
-##What We DO
+# What We DO
 ✅ Run 100% in browser sandbox
 
 ✅ Use only client-side JavaScript
@@ -192,7 +192,7 @@ What We DON'T Do
 
 ✅ Offer defensive recommendations
 
-##🎓 Educational Value
+# 🎓 Educational Value
 This tool teaches:
 
 For Individuals
@@ -226,7 +226,7 @@ Client-side vs server-side validation
 
 Security headers and best practices
 
-🐛 Troubleshooting
+# 🐛 Troubleshooting
 Common Issues
 Issue	Solution
 GitHub shows README instead of app	The 404.html file automatically redirects to index.html
@@ -237,7 +237,7 @@ Mobile display issues	Rotate device or use desktop mode
 GitHub Pages Specific
 yaml
 
-🤝 Contributing
+# 🤝 Contributing
 Contributions are welcome! Please follow these guidelines:
 
 Fork the repository
@@ -261,10 +261,10 @@ Test thoroughly before submitting
 
 Update documentation as needed
 
-📄 License
+# 📄 License
 This project is for educational purposes only. All code is provided as-is for defensive security education.
 
-Usage Terms
+# Usage Terms
 ✅ Use for personal security education
 
 ✅ Use for classroom/workshop demonstrations
@@ -281,11 +281,11 @@ Usage Terms
 
 ❌ Do not use in commercial products without modification
 
-Attribution
+# Attribution
 If you use this tool in presentations or training, please credit:
 "Password Strength Analyzer with Security Simulation - Defensive Security Education Tool"
 
-🔗 Useful Links
+# 🔗 Useful Links
 OWASP Password Storage Cheat Sheet
 
 NIST Digital Identity Guidelines
@@ -294,5 +294,5 @@ Have I Been Pwned?
 
 KeePass Password Manager
 
-🌟 Star History
+# 🌟 Star History
 https://api.star-history.com/svg?repos=your-username/Password-Analyzer&type=Date
