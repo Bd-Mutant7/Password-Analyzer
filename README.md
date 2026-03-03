@@ -82,7 +82,7 @@ Client-Side Architecture
 - ✅ Open source - fully transparent codebase
 
 # 📁 Project Structure
-text
+```text
 Password-Analyzer/
 ├── index.html          # Main application (required)
 ├── 404.html           # GitHub Pages redirect fix
@@ -91,6 +91,8 @@ Password-Analyzer/
 └── assets/            # (Optional) For future images/icons
     ├── screenshot1.png
     └── screenshot2.png
+```
+
 
 # Run Locally
 ```bash
