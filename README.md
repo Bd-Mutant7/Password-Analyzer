@@ -107,15 +107,13 @@ start index.html # Windows
 xdg-open index.html # Linux
 
  Single File Download
-Download index.html
-
-Double-click to open in any browser
-
-That's it! No installation needed
+- Download index.html
+- Double-click to open in any browser
+- That's it! No installation needed
 
 # 🎯 How to Use
 1. Password Analysis Tab
-text
+```text
 1. Enter any password in the input field
 2. Click "Analyze Password"
 3. View:
@@ -124,8 +122,10 @@ text
    - Character composition
    - Detected vulnerabilities
    - Improvement recommendations
+```
+
 2. Attack Simulation Tab
-text
+```text
 1. Enter a password to test
 2. Click "Run Attack Simulation"
 3. Watch three attack methods:
@@ -139,12 +139,25 @@ text
 • Discover password creation best practices
 • Understand additional security layers
 • Get defensive security tips
-Test Examples (Try These!)
-Password	Expected Strength	Description
-password123	Very Weak	Common password with numbers
-Tr0ub4dour&3	Moderate	Complex but predictable
-CorrectHorseBatteryStaple	Strong	Long passphrase
-X&$9pL2@qF!n	Very Strong	Random characters
+```
+
+## 🧪 Password Strength Test Examples (Try These!)
+
+| Password                         | Expected Strength | Description                          |
+|----------------------------------|------------------|--------------------------------------|
+| `password123`                    | Very Weak        | Common password with numbers         |
+| `Tr0ub4dour&3`                    | Moderate         | Complex but predictable              |
+| `CorrectHorseBatteryStaple`      | Strong           | Long passphrase                      |
+| `X&$9pL2@qF!n`                    | Very Strong      | Random characters                    |
+
+---
+
+### 🔐 Key Takeaways
+
+- Length is often **more important than complexity alone**.  
+- Avoid **common words with simple substitutions** (e.g., `@` for `a`, `0` for `o`).  
+- Consider using **long passphrases** instead of short complex passwords.  
+- Always store passwords in a **trusted password manager**.
 
 # 🔒 Privacy & Security
 What We DON'T Do
