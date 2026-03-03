@@ -3,7 +3,7 @@
 
 A comprehensive client-side password analysis tool that demonstrates how attackers identify and exploit weak passwords - for defensive security education only.
 
-Live Demo: View on GitHub Pages
+Live Demo: [Password-Analyzer](https://password-analyzer-sigma.vercel.app/)
 
 # 📋 Table of Contents
 ⚠️ Important Disclaimer
@@ -60,7 +60,7 @@ This tool operates entirely in your browser. No passwords are transmitted, store
 
 # 🚀 Live Demo
 Access the tool directly:
-👉 https://bd-mutant7.github.io/Password-Analyzer/
+👉 https://bd-mutant7.github.io/Password-Analyzer/    or  https://password-analyzer-sigma.vercel.app/
 
 # 🛠️ Technical Details
 Client-Side Architecture
