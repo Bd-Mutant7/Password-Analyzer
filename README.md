@@ -5,6 +5,8 @@ A comprehensive client-side password analysis tool that demonstrates how attacke
 
 Live Demo: [Password-Analyzer](https://password-analyzer-sigma.vercel.app/)
 
+[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
+
 # 📋 Table of Contents
 ⚠️ Important Disclaimer
 
